@@ -3,8 +3,8 @@ declared-services:
   text-to-speech-service:
     label: text_to_speech
     plan: standard
-  visual-recognition-service:
-    label: visual_recognition
+  visualrecognition-for-vision:
+    label: Visual Recognition
     plan: standard
 applications:
 - services:
