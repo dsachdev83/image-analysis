@@ -9,7 +9,7 @@ declared-services:
 applications:
 - services:
   - text-to-speech-service
-  - visual-recognition-service
+  - visualrecognition-for-vision
   name: image-analysis
   command: node app.js
   path: .
